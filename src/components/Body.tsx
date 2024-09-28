@@ -23,7 +23,7 @@ function Body() {
             alt="myPic"
             width={500}
             height={500}
-            className="w-[350px] h-[350px] mr-[230px] mt-[200px] ml-[80px] md:ml-[200px] rounded-full mb-3 bg-gray-300"
+            className="w-[250px] h-[250px] md:w-[350px] md:h-[350px] mr-[230px] mt-[200px] ml-[30px] md:ml-[200px] rounded-full mb-3 bg-gray-300"
          />
       </div>
     </div>
